@@ -80,6 +80,7 @@ int main()
 
 
 
+
 	cvNamedWindow("Video", CV_WINDOW_AUTOSIZE);
 
 	cvNamedWindow("Video_im_bw", CV_WINDOW_AUTOSIZE);
